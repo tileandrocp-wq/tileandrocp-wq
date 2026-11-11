@@ -79,16 +79,3 @@
 </p>
 
 ---
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phdev152328-bot&theme=radical)
-
-![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phdev152328-bot&theme=radical)
-
-
-</p>
-
----
